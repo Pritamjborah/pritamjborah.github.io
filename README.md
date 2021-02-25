@@ -1,5 +1,4 @@
-# pritamjborah.github.io
-Hello, my name is Pritam Jyoti Borah
+Hello, my name is Pritam Jyoti Borah </h>
 PhD Scholar, 
 Centre for Atmospheric & Oceanic Sciences
 Indian Institute of Science,
